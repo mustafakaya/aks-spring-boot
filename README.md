@@ -1,2 +1,2 @@
 # azure-spring-cloud
-azure-spring-cloud
+aks-spring-boot
